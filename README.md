@@ -33,7 +33,7 @@
 <!-- Synopsis / Hook -->
 
 
-<div align="center">
+<div align="Left">
 
 Credits:
 
