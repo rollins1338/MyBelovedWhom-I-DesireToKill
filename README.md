@@ -22,7 +22,7 @@
 <p align="center">
   <img src="./assets/kill.jpeg" alt="mbwidtk-cover" style="max-width:100%;height:auto;" />
   <br>
-  <em><i>MBWiDTK Cover</i></em>
+
 </p>
 
 
@@ -33,8 +33,14 @@
 <!-- Synopsis / Hook -->
 
 
-Another masterpiece written by author [Libenia](https://x.com/_libenia_)
+<div align="center">
 
-Spanish translation taken from [Asurenovels](https://asurenovels.website)
+Credits:
 
-Translated using Gemini and edited to get audiobook vibes by me.
+Another masterpiece written by [Libenia](https://x.com/_libenia_)
+
+Source Translation: Spanish version taken from [Asurenovels](https://asurenovels.website)
+
+Translated using Gemini and edited for immersive audiobook vibes by the me.
+
+</div>
