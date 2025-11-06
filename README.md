@@ -2,7 +2,7 @@
 
 <!-- Dynamic Title Effect (Imperial, Cinzel font, Gold color, Smooth transition) -->
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Lovers+Quarrel&size=58&pause=1000000&color=E34234&center=true&width=650&lines=My+Beloved+Whom+I+Desire+To+Kill&repeat=false&vCenter=true&style=smooth" alt="Typing Text Effect: My Beloved Whom I Desire To Kill" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Lovers+Quarrel&size=51&pause=1000000&color=E34234&center=true&width=650&lines=My+Beloved+Whom+I+Desire+To+Kill&repeat=false&vCenter=true&style=smooth" alt="Typing Text Effect: My Beloved Whom I Desire To Kill" />
 
 </div>
 
