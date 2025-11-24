@@ -41,6 +41,6 @@ Another masterpiece written by [Libenia](https://x.com/_libenia_)
 
 Source Translation: Spanish version taken from [Asurenovels](https://asurenovels.website)
 
-Translated using Gemini and edited for immersive audiobook vibes by the me.
+Translated using Gemini and edited for immersive audiobook vibes by me.
 
 </div>
